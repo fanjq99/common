@@ -1,4 +1,4 @@
-module common
+module github.com/fanjq99/common
 
 go 1.13
 
